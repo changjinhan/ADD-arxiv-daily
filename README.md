@@ -1,4 +1,4 @@
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,7 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-07**|**Comprehensive Layer-wise Analysis of SSL Models for Audio Deepfake Detection**|Yassine El Kheir et.al.|[2502.03559](http://arxiv.org/abs/2502.03559)|null|
+|**2025-02-07**|**Comprehensive Layer-wise Analysis of SSL Models for Audio Deepfake Detection**|Yassine El Kheir et.al.|[2502.03559](http://arxiv.org/abs/2502.03559)|**[link](https://github.com/yaselley/ssl_layerwise_deepfake)**|
 |**2025-01-24**|**Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation**|Wen Huang et.al.|[2501.14240](http://arxiv.org/abs/2501.14240)|null|
 |**2025-01-27**|**What Does an Audio Deepfake Detector Focus on? A Study in the Time Domain**|Petr Grinberg et.al.|[2501.13887](http://arxiv.org/abs/2501.13887)|null|
 |**2025-01-21**|**Transferable Adversarial Attacks on Audio Deepfake Detection**|Muhammad Umar Farooq et.al.|[2501.11902](http://arxiv.org/abs/2501.11902)|null|
@@ -35,5 +35,5 @@
 |**2024-10-13**|**Prompt Tuning for Audio Deepfake Detection: Computationally Efficient Test-time Domain Adaptation with Limited Target Dataset**|Hideyuki Oiso et.al.|[2410.09869](http://arxiv.org/abs/2410.09869)|**[link](https://github.com/Yuto-Matsunaga/Prompt_Tuning_for_Audio_Deepfake_Detection)**|
 |**2024-10-09**|**Toward Robust Real-World Audio Deepfake Detection: Closing the Explainability Gap**|Georgia Channing et.al.|[2410.07436](http://arxiv.org/abs/2410.07436)|null|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
