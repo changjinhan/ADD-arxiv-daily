@@ -1,4 +1,4 @@
-## Updated on 2025.03.18
+## Updated on 2025.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -26,7 +26,7 @@
 |**2025-01-24**|**Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation**|Wen Huang et.al.|[2501.14240](http://arxiv.org/abs/2501.14240)|null|
 |**2025-01-27**|**What Does an Audio Deepfake Detector Focus on? A Study in the Time Domain**|Petr Grinberg et.al.|[2501.13887](http://arxiv.org/abs/2501.13887)|null|
 |**2025-01-21**|**Transferable Adversarial Attacks on Audio Deepfake Detection**|Muhammad Umar Farooq et.al.|[2501.11902](http://arxiv.org/abs/2501.11902)|null|
-|**2025-01-14**|**CodecFake-Omni: A Large-Scale Codec-based Deepfake Speech Dataset**|Jiawei Du et.al.|[2501.08238](http://arxiv.org/abs/2501.08238)|null|
+|**2025-03-17**|**CodecFake+: A Large-Scale Neural Audio Codec-Based Deepfake Speech Dataset**|Xuanjun Chen et.al.|[2501.08238](http://arxiv.org/abs/2501.08238)|null|
 |**2025-01-11**|**Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition**|Yuankun Xie et.al.|[2501.06514](http://arxiv.org/abs/2501.06514)|**[link](https://github.com/xieyuankun/st-codecfake)**|
 |**2025-01-09**|**Unmasking Deepfakes: Leveraging Augmentations and Features Variability for Deepfake Speech Detection**|Inbal Rimon et.al.|[2501.05545](http://arxiv.org/abs/2501.05545)|null|
 |**2025-01-09**|**Vision Graph Non-Contrastive Learning for Audio Deepfake Detection with Limited Labels**|Falih Gozi Febrinanto et.al.|[2501.04942](http://arxiv.org/abs/2501.04942)|null|
@@ -43,5 +43,5 @@
 |**2024-10-13**|**Prompt Tuning for Audio Deepfake Detection: Computationally Efficient Test-time Domain Adaptation with Limited Target Dataset**|Hideyuki Oiso et.al.|[2410.09869](http://arxiv.org/abs/2410.09869)|**[link](https://github.com/Yuto-Matsunaga/Prompt_Tuning_for_Audio_Deepfake_Detection)**|
 |**2024-10-09**|**Toward Robust Real-World Audio Deepfake Detection: Closing the Explainability Gap**|Georgia Channing et.al.|[2410.07436](http://arxiv.org/abs/2410.07436)|null|
 
-<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
 
