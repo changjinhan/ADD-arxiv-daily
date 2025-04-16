@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Generalized Audio Deepfake Detection Using Frame-level Latent Information Entropy**|Botao Zhao et.al.|[2504.10819](http://arxiv.org/abs/2504.10819)|null|
 |**2025-04-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/all-type-add)**|
 |**2025-04-06**|**Trainable Adaptive Score Normalization for Automatic Speaker Verification**|Jeong-Hwan Choi et.al.|[2504.04512](http://arxiv.org/abs/2504.04512)|null|
 |**2025-03-21**|**Measuring the Robustness of Audio Deepfake Detectors**|Xiang Li et.al.|[2503.17577](http://arxiv.org/abs/2503.17577)|**[link](https://github.com/Jessegator/Audio_robustness_evaluation)**|
