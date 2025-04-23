@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**FADEL: Uncertainty-aware Fake Audio Detection with Evidential Deep Learning**|Ju Yeon Kang et.al.|[2504.15663](http://arxiv.org/abs/2504.15663)|null|
 |**2025-04-19**|**The First VoicePrivacy Attacker Challenge**|Natalia Tomashenko et.al.|[2504.14183](http://arxiv.org/abs/2504.14183)|null|
 |**2025-04-16**|**Benchmarking Audio Deepfake Detection Robustness in Real-world Communication Scenarios**|Haohan Shi et.al.|[2504.12423](http://arxiv.org/abs/2504.12423)|null|
 |**2025-04-15**|**Generalized Audio Deepfake Detection Using Frame-level Latent Information Entropy**|Botao Zhao et.al.|[2504.10819](http://arxiv.org/abs/2504.10819)|null|
