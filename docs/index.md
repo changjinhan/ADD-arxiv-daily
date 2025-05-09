@@ -11,7 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-30**|**End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation**|Andrea Di Pierno et.al.|[2504.20923](http://arxiv.org/abs/2504.20923)|**[link](https://github.com/adipiz99/RawNetLite)**|
+|**2025-04-30**|**End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation**|Andrea Di Pierno et.al.|[2504.20923](http://arxiv.org/abs/2504.20923)|null|
 |**2025-04-22**|**FADEL: Uncertainty-aware Fake Audio Detection with Evidential Deep Learning**|Ju Yeon Kang et.al.|[2504.15663](http://arxiv.org/abs/2504.15663)|null|
 |**2025-04-19**|**The First VoicePrivacy Attacker Challenge**|Natalia Tomashenko et.al.|[2504.14183](http://arxiv.org/abs/2504.14183)|null|
 |**2025-04-16**|**Benchmarking Audio Deepfake Detection Robustness in Real-world Communication Scenarios**|Haohan Shi et.al.|[2504.12423](http://arxiv.org/abs/2504.12423)|null|
