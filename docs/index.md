@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Replay Attacks Against Audio Deepfake Detection**|Nicolas Müller et.al.|[2505.14862](http://arxiv.org/abs/2505.14862)|null|
 |**2025-05-20**|**Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing**|Yang Xiao et.al.|[2505.14601](http://arxiv.org/abs/2505.14601)|null|
 |**2025-05-20**|**Forensic deepfake audio detection using segmental speech features**|Tianle Yang et.al.|[2505.13847](http://arxiv.org/abs/2505.13847)|null|
 |**2025-05-19**|**Codec-Based Deepfake Source Tracing via Neural Audio Codec Taxonomy**|Xuanjun Chen et.al.|[2505.12994](http://arxiv.org/abs/2505.12994)|null|
