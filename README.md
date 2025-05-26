@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**What You Read Isn't What You Hear: Linguistic Sensitivity in Deepfake Speech Detection**|Binh Nguyen et.al.|[2505.17513](http://arxiv.org/abs/2505.17513)|null|
 |**2025-05-21**|**ASVspoof2019 vs. ASVspoof5: Assessment and Comparison**|Avishai Weizman et.al.|[2505.15911](http://arxiv.org/abs/2505.15911)|null|
 |**2025-05-20**|**Replay Attacks Against Audio Deepfake Detection**|Nicolas Müller et.al.|[2505.14862](http://arxiv.org/abs/2505.14862)|null|
 |**2025-05-20**|**Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing**|Yang Xiao et.al.|[2505.14601](http://arxiv.org/abs/2505.14601)|null|
