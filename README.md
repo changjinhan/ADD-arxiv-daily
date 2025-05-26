@@ -1,4 +1,4 @@
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -29,7 +29,7 @@
 |**2025-04-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/all-type-add)**|
 |**2025-04-06**|**Trainable Adaptive Score Normalization for Automatic Speaker Verification**|Jeong-Hwan Choi et.al.|[2504.04512](http://arxiv.org/abs/2504.04512)|null|
 |**2025-03-21**|**Measuring the Robustness of Audio Deepfake Detectors**|Xiang Li et.al.|[2503.17577](http://arxiv.org/abs/2503.17577)|**[link](https://github.com/Jessegator/Audio_robustness_evaluation)**|
-|**2025-03-10**|**Impact of Microphone Array Mismatches to Learning-based Replay Speech Detection**|Michael Neri et.al.|[2503.07357](http://arxiv.org/abs/2503.07357)|null|
+|**2025-05-23**|**Impact of Microphone Array Mismatches to Learning-based Replay Speech Detection**|Michael Neri et.al.|[2503.07357](http://arxiv.org/abs/2503.07357)|null|
 |**2025-03-05**|**DeePen: Penetration Testing for Audio Deepfake Detection**|Nicolas Müller et.al.|[2502.20427](http://arxiv.org/abs/2502.20427)|null|
 |**2025-03-31**|**DIN-CTS: Low-Complexity Depthwise-Inception Neural Network with Contrastive Training Strategy for Deepfake Speech Detection**|Lam Pham et.al.|[2502.20225](http://arxiv.org/abs/2502.20225)|null|
 |**2025-02-20**|**Pitch Imperfect: Detecting Audio Deepfakes Through Acoustic Prosodic Analysis**|Kevin Warren et.al.|[2502.14726](http://arxiv.org/abs/2502.14726)|null|
@@ -58,5 +58,5 @@
 |**2024-10-13**|**Prompt Tuning for Audio Deepfake Detection: Computationally Efficient Test-time Domain Adaptation with Limited Target Dataset**|Hideyuki Oiso et.al.|[2410.09869](http://arxiv.org/abs/2410.09869)|**[link](https://github.com/Yuto-Matsunaga/Prompt_Tuning_for_Audio_Deepfake_Detection)**|
 |**2024-10-09**|**Toward Robust Real-World Audio Deepfake Detection: Closing the Explainability Gap**|Georgia Channing et.al.|[2410.07436](http://arxiv.org/abs/2410.07436)|null|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
