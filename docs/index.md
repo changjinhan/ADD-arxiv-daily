@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**STOPA: A Database of Systematic VariaTion Of DeePfake Audio for Open-Set Source Tracing and Attribution**|Anton Firc et.al.|[2505.19644](http://arxiv.org/abs/2505.19644)|null|
+|**2025-05-25**|**EnvSDD: Benchmarking Environmental Sound Deepfake Detection**|Han Yin et.al.|[2505.19203](http://arxiv.org/abs/2505.19203)|null|
+|**2025-05-23**|**ATMM-SAGA: Alternating Training for Multi-Module with Score-Aware Gated Attention SASV system**|Amro Asali et.al.|[2505.18273](http://arxiv.org/abs/2505.18273)|null|
 |**2025-05-23**|**What You Read Isn't What You Hear: Linguistic Sensitivity in Deepfake Speech Detection**|Binh Nguyen et.al.|[2505.17513](http://arxiv.org/abs/2505.17513)|null|
 |**2025-05-24**|**ASVspoof2019 vs. ASVspoof5: Assessment and Comparison**|Avishai Weizman et.al.|[2505.15911](http://arxiv.org/abs/2505.15911)|null|
 |**2025-05-20**|**Replay Attacks Against Audio Deepfake Detection**|Nicolas Müller et.al.|[2505.14862](http://arxiv.org/abs/2505.14862)|null|
