@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Rehearsal with Auxiliary-Informed Sampling for Audio Deepfake Detection**|Falih Gozi Febrinanto et.al.|[2505.24486](http://arxiv.org/abs/2505.24486)|null|
 |**2025-05-29**|**Few-Shot Speech Deepfake Detection Adaptation with Gaussian Processes**|Neta Glazer et.al.|[2505.23619](http://arxiv.org/abs/2505.23619)|null|
 |**2025-05-26**|**STOPA: A Database of Systematic VariaTion Of DeePfake Audio for Open-Set Source Tracing and Attribution**|Anton Firc et.al.|[2505.19644](http://arxiv.org/abs/2505.19644)|null|
 |**2025-05-25**|**EnvSDD: Benchmarking Environmental Sound Deepfake Detection**|Han Yin et.al.|[2505.19203](http://arxiv.org/abs/2505.19203)|null|
