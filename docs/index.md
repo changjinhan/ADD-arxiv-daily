@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,7 +16,7 @@ layout: default
 |**2025-05-25**|**EnvSDD: Benchmarking Environmental Sound Deepfake Detection**|Han Yin et.al.|[2505.19203](http://arxiv.org/abs/2505.19203)|null|
 |**2025-05-23**|**ATMM-SAGA: Alternating Training for Multi-Module with Score-Aware Gated Attention SASV system**|Amro Asali et.al.|[2505.18273](http://arxiv.org/abs/2505.18273)|null|
 |**2025-05-23**|**What You Read Isn't What You Hear: Linguistic Sensitivity in Deepfake Speech Detection**|Binh Nguyen et.al.|[2505.17513](http://arxiv.org/abs/2505.17513)|null|
-|**2025-05-24**|**ASVspoof2019 vs. ASVspoof5: Assessment and Comparison**|Avishai Weizman et.al.|[2505.15911](http://arxiv.org/abs/2505.15911)|null|
+|**2025-05-24**|**ASVspoof2019 vs. ASVspoof5: Assessment and Comparison**|Avishai Weizman et.al.|[2505.15911](http://arxiv.org/abs/2505.15911)|**[link](https://github.com/avishai111/ASVspoof2019-vs-ASVspoof5-Assessment-and-Comparison)**|
 |**2025-05-20**|**Replay Attacks Against Audio Deepfake Detection**|Nicolas Müller et.al.|[2505.14862](http://arxiv.org/abs/2505.14862)|null|
 |**2025-05-20**|**Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing**|Yang Xiao et.al.|[2505.14601](http://arxiv.org/abs/2505.14601)|null|
 |**2025-05-20**|**Forensic deepfake audio detection using segmental speech features**|Tianle Yang et.al.|[2505.13847](http://arxiv.org/abs/2505.13847)|null|
