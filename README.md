@@ -1,4 +1,4 @@
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -21,10 +21,10 @@
 |**2025-05-23**|**ATMM-SAGA: Alternating Training for Multi-Module with Score-Aware Gated Attention SASV system**|Amro Asali et.al.|[2505.18273](http://arxiv.org/abs/2505.18273)|null|
 |**2025-05-23**|**What You Read Isn't What You Hear: Linguistic Sensitivity in Deepfake Speech Detection**|Binh Nguyen et.al.|[2505.17513](http://arxiv.org/abs/2505.17513)|null|
 |**2025-05-24**|**ASVspoof2019 vs. ASVspoof5: Assessment and Comparison**|Avishai Weizman et.al.|[2505.15911](http://arxiv.org/abs/2505.15911)|**[link](https://github.com/avishai111/ASVspoof2019-vs-ASVspoof5-Assessment-and-Comparison)**|
-|**2025-05-20**|**Replay Attacks Against Audio Deepfake Detection**|Nicolas Müller et.al.|[2505.14862](http://arxiv.org/abs/2505.14862)|null|
+|**2025-06-01**|**Replay Attacks Against Audio Deepfake Detection**|Nicolas Müller et.al.|[2505.14862](http://arxiv.org/abs/2505.14862)|null|
 |**2025-05-20**|**Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing**|Yang Xiao et.al.|[2505.14601](http://arxiv.org/abs/2505.14601)|null|
 |**2025-05-20**|**Forensic deepfake audio detection using segmental speech features**|Tianle Yang et.al.|[2505.13847](http://arxiv.org/abs/2505.13847)|null|
-|**2025-05-19**|**Codec-Based Deepfake Source Tracing via Neural Audio Codec Taxonomy**|Xuanjun Chen et.al.|[2505.12994](http://arxiv.org/abs/2505.12994)|null|
+|**2025-06-01**|**Codec-Based Deepfake Source Tracing via Neural Audio Codec Taxonomy**|Xuanjun Chen et.al.|[2505.12994](http://arxiv.org/abs/2505.12994)|null|
 |**2025-05-16**|**$\mathcal{A}LLM4ADD$ : Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection**|Hao Gu et.al.|[2505.11079](http://arxiv.org/abs/2505.11079)|null|
 |**2025-05-10**|**Beyond Identity: A Generalizable Approach for Deepfake Audio Detection**|Yasaman Ahmadiadli et.al.|[2505.06766](http://arxiv.org/abs/2505.06766)|null|
 |**2025-04-30**|**End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation**|Andrea Di Pierno et.al.|[2504.20923](http://arxiv.org/abs/2504.20923)|null|
@@ -64,5 +64,5 @@
 |**2024-10-13**|**Prompt Tuning for Audio Deepfake Detection: Computationally Efficient Test-time Domain Adaptation with Limited Target Dataset**|Hideyuki Oiso et.al.|[2410.09869](http://arxiv.org/abs/2410.09869)|**[link](https://github.com/Yuto-Matsunaga/Prompt_Tuning_for_Audio_Deepfake_Detection)**|
 |**2024-10-09**|**Toward Robust Real-World Audio Deepfake Detection: Closing the Explainability Gap**|Georgia Channing et.al.|[2410.07436](http://arxiv.org/abs/2410.07436)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
