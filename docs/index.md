@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -30,7 +30,7 @@ layout: default
 |**2025-04-30**|**End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation**|Andrea Di Pierno et.al.|[2504.20923](http://arxiv.org/abs/2504.20923)|null|
 |**2025-04-22**|**FADEL: Uncertainty-aware Fake Audio Detection with Evidential Deep Learning**|Ju Yeon Kang et.al.|[2504.15663](http://arxiv.org/abs/2504.15663)|null|
 |**2025-04-19**|**The First VoicePrivacy Attacker Challenge**|Natalia Tomashenko et.al.|[2504.14183](http://arxiv.org/abs/2504.14183)|null|
-|**2025-04-16**|**Benchmarking Audio Deepfake Detection Robustness in Real-world Communication Scenarios**|Haohan Shi et.al.|[2504.12423](http://arxiv.org/abs/2504.12423)|null|
+|**2025-06-03**|**Benchmarking Audio Deepfake Detection Robustness in Real-world Communication Scenarios**|Haohan Shi et.al.|[2504.12423](http://arxiv.org/abs/2504.12423)|null|
 |**2025-04-15**|**Generalized Audio Deepfake Detection Using Frame-level Latent Information Entropy**|Botao Zhao et.al.|[2504.10819](http://arxiv.org/abs/2504.10819)|null|
 |**2025-04-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/all-type-add)**|
 |**2025-04-06**|**Trainable Adaptive Score Normalization for Automatic Speaker Verification**|Jeong-Hwan Choi et.al.|[2504.04512](http://arxiv.org/abs/2504.04512)|null|
