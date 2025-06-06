@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -17,7 +17,7 @@ layout: default
 |**2025-05-31**|**RPRA-ADD: Forgery Trace Enhancement-Driven Audio Deepfake Detection**|Ruibo Fu et.al.|[2506.00375](http://arxiv.org/abs/2506.00375)|null|
 |**2025-05-30**|**Rehearsal with Auxiliary-Informed Sampling for Audio Deepfake Detection**|Falih Gozi Febrinanto et.al.|[2505.24486](http://arxiv.org/abs/2505.24486)|null|
 |**2025-05-29**|**Few-Shot Speech Deepfake Detection Adaptation with Gaussian Processes**|Neta Glazer et.al.|[2505.23619](http://arxiv.org/abs/2505.23619)|null|
-|**2025-05-26**|**STOPA: A Database of Systematic VariaTion Of DeePfake Audio for Open-Set Source Tracing and Attribution**|Anton Firc et.al.|[2505.19644](http://arxiv.org/abs/2505.19644)|null|
+|**2025-06-05**|**STOPA: A Database of Systematic VariaTion Of DeePfake Audio for Open-Set Source Tracing and Attribution**|Anton Firc et.al.|[2505.19644](http://arxiv.org/abs/2505.19644)|null|
 |**2025-05-25**|**EnvSDD: Benchmarking Environmental Sound Deepfake Detection**|Han Yin et.al.|[2505.19203](http://arxiv.org/abs/2505.19203)|null|
 |**2025-05-23**|**ATMM-SAGA: Alternating Training for Multi-Module with Score-Aware Gated Attention SASV system**|Amro Asali et.al.|[2505.18273](http://arxiv.org/abs/2505.18273)|null|
 |**2025-05-23**|**What You Read Isn't What You Hear: Linguistic Sensitivity in Deepfake Speech Detection**|Binh Nguyen et.al.|[2505.17513](http://arxiv.org/abs/2505.17513)|null|
