@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Bayesian Learning for Domain-Invariant Speaker Verification and Anti-Spoofing**|Jin Li et.al.|[2506.07536](http://arxiv.org/abs/2506.07536)|null|
+|**2025-06-08**|**Towards Generalized Source Tracing for Codec-Based Deepfake Speech**|Xuanjun Chen et.al.|[2506.07294](http://arxiv.org/abs/2506.07294)|null|
 |**2025-06-03**|**A Data-Driven Diffusion-based Approach for Audio Deepfake Explanations**|Petr Grinberg et.al.|[2506.03425](http://arxiv.org/abs/2506.03425)|null|
 |**2025-06-03**|**PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing**|You Zhang et.al.|[2506.02958](http://arxiv.org/abs/2506.02958)|null|
 |**2025-05-31**|**XMAD-Bench: Cross-Domain Multilingual Audio Deepfake Benchmark**|Ioan-Paul Ciobanu et.al.|[2506.00462](http://arxiv.org/abs/2506.00462)|**[link](https://github.com/ristea/xmad-bench)**|
