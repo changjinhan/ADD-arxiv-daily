@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**FROST-EMA: Finnish and Russian Oral Speech Dataset of Electromagnetic Articulography Measurements with L1, L2 and Imitated L2 Accents**|Satu Hopponen et.al.|[2506.08981](http://arxiv.org/abs/2506.08981)|null|
 |**2025-06-09**|**Bayesian Learning for Domain-Invariant Speaker Verification and Anti-Spoofing**|Jin Li et.al.|[2506.07536](http://arxiv.org/abs/2506.07536)|null|
 |**2025-06-10**|**Towards Generalized Source Tracing for Codec-Based Deepfake Speech**|Xuanjun Chen et.al.|[2506.07294](http://arxiv.org/abs/2506.07294)|null|
 |**2025-06-03**|**A Data-Driven Diffusion-based Approach for Audio Deepfake Explanations**|Petr Grinberg et.al.|[2506.03425](http://arxiv.org/abs/2506.03425)|null|
