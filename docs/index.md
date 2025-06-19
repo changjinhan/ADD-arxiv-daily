@@ -11,7 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-17**|**A Comparative Study on Proactive and Passive Detection of Deepfake Speech**|Chia-Hua Wu et.al.|[2506.14398](http://arxiv.org/abs/2506.14398)|null|
+|**2025-06-17**|**A Comparative Study on Proactive and Passive Detection of Deepfake Speech**|Chia-Hua Wu et.al.|[2506.14398](http://arxiv.org/abs/2506.14398)|**[link](https://github.com/nii-yamagishilab/antispoofing-watermark)**|
 |**2025-06-17**|**Pushing the Performance of Synthetic Speech Detection with Kolmogorov-Arnold Networks and Self-Supervised Learning Models**|Tuan Dat Phuong et.al.|[2506.14153](http://arxiv.org/abs/2506.14153)|null|
 |**2025-06-11**|**You Are What You Say: Exploiting Linguistic Content for VoicePrivacy Attacks**|Ünal Ege Gaznepoglu et.al.|[2506.09521](http://arxiv.org/abs/2506.09521)|null|
 |**2025-06-10**|**FROST-EMA: Finnish and Russian Oral Speech Dataset of Electromagnetic Articulography Measurements with L1, L2 and Imitated L2 Accents**|Satu Hopponen et.al.|[2506.08981](http://arxiv.org/abs/2506.08981)|null|
