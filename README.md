@@ -1,4 +1,4 @@
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,7 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-23**|**IndieFake Dataset: A Benchmark Dataset for Audio Deepfake Detection**|Abhay Kumar et.al.|[2506.19014](http://arxiv.org/abs/2506.19014)|null|
+|**2025-06-26**|**IndieFake Dataset: A Benchmark Dataset for Audio Deepfake Detection**|Abhay Kumar et.al.|[2506.19014](http://arxiv.org/abs/2506.19014)|null|
 |**2025-06-17**|**A Comparative Study on Proactive and Passive Detection of Deepfake Speech**|Chia-Hua Wu et.al.|[2506.14398](http://arxiv.org/abs/2506.14398)|**[link](https://github.com/nii-yamagishilab/antispoofing-watermark)**|
 |**2025-06-17**|**Pushing the Performance of Synthetic Speech Detection with Kolmogorov-Arnold Networks and Self-Supervised Learning Models**|Tuan Dat Phuong et.al.|[2506.14153](http://arxiv.org/abs/2506.14153)|**[link](https://github.com/HuSTeP-Human-Speech-Text-Processing-Lab/XLSR-GRKAN-Conformer)**|
 |**2025-06-11**|**You Are What You Say: Exploiting Linguistic Content for VoicePrivacy Attacks**|Ünal Ege Gaznepoglu et.al.|[2506.09521](http://arxiv.org/abs/2506.09521)|null|
@@ -75,5 +75,5 @@
 |**2024-10-13**|**Prompt Tuning for Audio Deepfake Detection: Computationally Efficient Test-time Domain Adaptation with Limited Target Dataset**|Hideyuki Oiso et.al.|[2410.09869](http://arxiv.org/abs/2410.09869)|**[link](https://github.com/Yuto-Matsunaga/Prompt_Tuning_for_Audio_Deepfake_Detection)**|
 |**2024-10-09**|**Toward Robust Real-World Audio Deepfake Detection: Closing the Explainability Gap**|Georgia Channing et.al.|[2410.07436](http://arxiv.org/abs/2410.07436)|null|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
