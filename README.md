@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Post-training for Deepfake Speech Detection**|Wanying Ge et.al.|[2506.21090](http://arxiv.org/abs/2506.21090)|null|
 |**2025-06-26**|**IndieFake Dataset: A Benchmark Dataset for Audio Deepfake Detection**|Abhay Kumar et.al.|[2506.19014](http://arxiv.org/abs/2506.19014)|null|
 |**2025-06-17**|**A Comparative Study on Proactive and Passive Detection of Deepfake Speech**|Chia-Hua Wu et.al.|[2506.14398](http://arxiv.org/abs/2506.14398)|**[link](https://github.com/nii-yamagishilab/antispoofing-watermark)**|
 |**2025-06-17**|**Pushing the Performance of Synthetic Speech Detection with Kolmogorov-Arnold Networks and Self-Supervised Learning Models**|Tuan Dat Phuong et.al.|[2506.14153](http://arxiv.org/abs/2506.14153)|**[link](https://github.com/HuSTeP-Human-Speech-Text-Processing-Lab/XLSR-GRKAN-Conformer)**|
