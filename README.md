@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Analyzing and Improving Speaker Similarity Assessment for Speech Synthesis**|Marc-André Carbonneau et.al.|[2507.02176](http://arxiv.org/abs/2507.02176)|null|
 |**2025-07-02**|**Generalizable Detection of Audio Deepfakes**|Jose A. Lopez et.al.|[2507.01750](http://arxiv.org/abs/2507.01750)|null|
 |**2025-06-26**|**Post-training for Deepfake Speech Detection**|Wanying Ge et.al.|[2506.21090](http://arxiv.org/abs/2506.21090)|null|
 |**2025-06-26**|**IndieFake Dataset: A Benchmark Dataset for Audio Deepfake Detection**|Abhay Kumar et.al.|[2506.19014](http://arxiv.org/abs/2506.19014)|null|
