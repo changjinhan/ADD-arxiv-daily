@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech**|Xuechen Liu et.al.|[2507.16220](http://arxiv.org/abs/2507.16220)|null|
 |**2025-07-20**|**Frame-level Temporal Difference Learning for Partial Deepfake Speech Detection**|Menglu Li et.al.|[2507.15101](http://arxiv.org/abs/2507.15101)|null|
 |**2025-07-15**|**Towards Scalable AASIST: Refining Graph Attention for Speech Deepfake Detection**|Ivan Viakhirev et.al.|[2507.11777](http://arxiv.org/abs/2507.11777)|null|
 |**2025-07-11**|**RawTFNet: A Lightweight CNN Architecture for Speech Anti-spoofing**|Yang Xiao et.al.|[2507.08227](http://arxiv.org/abs/2507.08227)|null|
