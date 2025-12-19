@@ -4,7 +4,7 @@ user_name: "changjinhan"
 repo_name: "ADD-arxiv-daily"
 show_authors: True
 show_links: True
-show_badge: False
+show_badge: True
 max_results: 20
 
 publish_readme: True
@@ -23,6 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "ADD":
-        filters: ["ADD", "Audio Deepfake Detection", "Deepfake Speech Detection", "Deepfake Speech", "Audio Anti Spoofing", "Automatic Speaker Verification"]
+        filters: ["ADD", "Audio Deepfake Detection", "Deepfake Speech Detection", 
+        "Deepfake Speech", "Audio Anti Spoofing", "Automatic Speaker Verification"]
 
 
