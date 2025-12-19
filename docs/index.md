@@ -7,6 +7,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**EasyV2V: A High-quality Instruction-based Video Editing Framework**|Jinjie Mai et.al.|[2512.16920](http://arxiv.org/abs/2512.16920)|null|
+|**2025-12-18**|**From Facts to Conclusions : Integrating Deductive Reasoning in Retrieval-Augmented LLMs**|Shubham Mishra et.al.|[2512.16795](http://arxiv.org/abs/2512.16795)|null|
+|**2025-12-18**|**High mass accretion rates onto evolved stripped-envelope massive stars by jet-induced mass removal**|Yotham Cohen et.al.|[2512.16375](http://arxiv.org/abs/2512.16375)|null|
+|**2025-12-18**|**Phantom Menace in general Palatini $f(R,φ)$ theories**|Rahul Thakur et.al.|[2512.16256](http://arxiv.org/abs/2512.16256)|null|
+|**2025-12-18**|**Understanding the Neutron Star Population with the SKAO telescopes**|L. Levin et.al.|[2512.16156](http://arxiv.org/abs/2512.16156)|null|
+|**2025-12-17**|**Robust Multi-view Camera Calibration from Dense Matches**|Johannes Hägerlind et.al.|[2512.15608](http://arxiv.org/abs/2512.15608)|null|
+|**2025-12-17**|**GazeBlend: Exploring Paired Gaze-Based Input Techniques for Navigation and Selection Tasks on Mobile Devices**|Omar Namnakani et.al.|[2512.15491](http://arxiv.org/abs/2512.15491)|null|
+|**2025-12-18**|**Let the Barbarians In: How AI Can Accelerate Systems Performance Research**|Audrey Cheng et.al.|[2512.14806](http://arxiv.org/abs/2512.14806)|null|
+|**2025-12-16**|**Performance and Stability of Barrier Mode Parallel Systems with Heterogeneous and Redundant Jobs**|Brenton Walker et.al.|[2512.14445](http://arxiv.org/abs/2512.14445)|null|
+|**2025-12-16**|**Dual Attention Guided Defense Against Malicious Edits**|Jie Zhang et.al.|[2512.14333](http://arxiv.org/abs/2512.14333)|null|
+|**2025-12-16**|**Gravitational charges and radiation in asymptotically locally de Sitter spacetimes**|Aaron Poole et.al.|[2512.14243](http://arxiv.org/abs/2512.14243)|null|
+|**2025-12-16**|**Ladder Up, Memory Down: Low-Cost Fine-Tuning With Side Nets**|Estelle Zheng et.al.|[2512.14237](http://arxiv.org/abs/2512.14237)|null|
+|**2025-12-16**|**Spherical Voronoi: Directional Appearance as a Differentiable Partition of the Sphere**|Francesco Di Sario et.al.|[2512.14180](http://arxiv.org/abs/2512.14180)|null|
+|**2025-12-15**|**Beyond surface form: A pipeline for semantic analysis in Alzheimer's Disease detection from spontaneous speech**|Dylan Phelps et.al.|[2512.13685](http://arxiv.org/abs/2512.13685)|null|
+|**2025-12-15**|**Feedforward 3D Editing via Text-Steerable Image-to-3D**|Ziqi Ma et.al.|[2512.13678](http://arxiv.org/abs/2512.13678)|null|
+|**2025-12-15**|**Correcting exponentiality test for binned earthquake magnitudes**|Angela Stallone et.al.|[2512.13599](http://arxiv.org/abs/2512.13599)|null|
+|**2025-12-15**|**A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments**|Raymond Khazoum et.al.|[2512.13517](http://arxiv.org/abs/2512.13517)|null|
+|**2025-12-15**|**A Voronoi Diagram-Based Approach for AC Optimal Power Flow**|Mohammed N. Khamees et.al.|[2512.13466](http://arxiv.org/abs/2512.13466)|null|
+|**2025-12-15**|**Computer vision training dataset generation for robotic environments using Gaussian splatting**|Patryk Niżeniec et.al.|[2512.13411](http://arxiv.org/abs/2512.13411)|null|
+|**2025-12-16**|**EPW varieties as moduli spaces on ordinary GM surfaces and special GM threefolds**|Ziqi Liu et.al.|[2512.13269](http://arxiv.org/abs/2512.13269)|null|
 |**2025-07-22**|**LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech**|Xuechen Liu et.al.|[2507.16220](http://arxiv.org/abs/2507.16220)|null|
 |**2025-07-20**|**Frame-level Temporal Difference Learning for Partial Deepfake Speech Detection**|Menglu Li et.al.|[2507.15101](http://arxiv.org/abs/2507.15101)|null|
 |**2025-07-15**|**Towards Scalable AASIST: Refining Graph Attention for Speech Deepfake Detection**|Ivan Viakhirev et.al.|[2507.11777](http://arxiv.org/abs/2507.11777)|null|
