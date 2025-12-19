@@ -1,8 +1,4 @@
 ## Updated on 2025.12.19
-> Usage instructions: [here](./docs/README.md#usage)
-
-> This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
-
 <details>
   <summary>Table of Contents</summary>
   <ol>
