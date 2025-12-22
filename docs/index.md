@@ -7,14 +7,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**First results of a Monolithic Active Pixel Sensor with Internal Signal Gain Fully Integrated in a 180 nm CMOS Technology**|Heinz Pernegger et.al.|[2512.17824](http://arxiv.org/abs/2512.17824)|null|
+|**2025-12-19**|**HydroGym: A Reinforcement Learning Platform for Fluid Dynamics**|Christian Lagemann et.al.|[2512.17534](http://arxiv.org/abs/2512.17534)|null|
+|**2025-12-19**|**AlignDP: Hybrid Differential Privacy with Rarity-Aware Protection for LLMs**|Madhava Gaikwad et.al.|[2512.17251](http://arxiv.org/abs/2512.17251)|null|
 |**2025-12-18**|**EasyV2V: A High-quality Instruction-based Video Editing Framework**|Jinjie Mai et.al.|[2512.16920](http://arxiv.org/abs/2512.16920)|null|
 |**2025-12-18**|**From Facts to Conclusions : Integrating Deductive Reasoning in Retrieval-Augmented LLMs**|Shubham Mishra et.al.|[2512.16795](http://arxiv.org/abs/2512.16795)|null|
 |**2025-12-18**|**High mass accretion rates onto evolved stripped-envelope massive stars by jet-induced mass removal**|Yotham Cohen et.al.|[2512.16375](http://arxiv.org/abs/2512.16375)|null|
-|**2025-12-18**|**Phantom Menace in general Palatini $f(R,φ)$ theories**|Rahul Thakur et.al.|[2512.16256](http://arxiv.org/abs/2512.16256)|null|
+|**2025-12-19**|**Phantom Menace in general Palatini $f(R,φ)$ theories**|Rahul Thakur et.al.|[2512.16256](http://arxiv.org/abs/2512.16256)|null|
 |**2025-12-18**|**Understanding the Neutron Star Population with the SKAO telescopes**|L. Levin et.al.|[2512.16156](http://arxiv.org/abs/2512.16156)|null|
 |**2025-12-17**|**Robust Multi-view Camera Calibration from Dense Matches**|Johannes Hägerlind et.al.|[2512.15608](http://arxiv.org/abs/2512.15608)|null|
 |**2025-12-17**|**GazeBlend: Exploring Paired Gaze-Based Input Techniques for Navigation and Selection Tasks on Mobile Devices**|Omar Namnakani et.al.|[2512.15491](http://arxiv.org/abs/2512.15491)|null|
-|**2025-12-18**|**Let the Barbarians In: How AI Can Accelerate Systems Performance Research**|Audrey Cheng et.al.|[2512.14806](http://arxiv.org/abs/2512.14806)|null|
+|**2025-12-19**|**Let the Barbarians In: How AI Can Accelerate Systems Performance Research**|Audrey Cheng et.al.|[2512.14806](http://arxiv.org/abs/2512.14806)|null|
 |**2025-12-16**|**Performance and Stability of Barrier Mode Parallel Systems with Heterogeneous and Redundant Jobs**|Brenton Walker et.al.|[2512.14445](http://arxiv.org/abs/2512.14445)|null|
 |**2025-12-16**|**Dual Attention Guided Defense Against Malicious Edits**|Jie Zhang et.al.|[2512.14333](http://arxiv.org/abs/2512.14333)|null|
 |**2025-12-16**|**Gravitational charges and radiation in asymptotically locally de Sitter spacetimes**|Aaron Poole et.al.|[2512.14243](http://arxiv.org/abs/2512.14243)|null|
