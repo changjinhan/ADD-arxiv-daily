@@ -7,6 +7,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-22**|**Gap-free Information Transfer in 4D-STEM via Fusion of Complementary Scattering Channels**|Shengbo You et.al.|[2512.19460](http://arxiv.org/abs/2512.19460)|null|
+|**2025-12-22**|**Enhancing PLS of Indoor IRS-VLC Systems for Colluding and Non-Colluding Eavesdroppers**|Rashid Iqbal et.al.|[2512.19339](http://arxiv.org/abs/2512.19339)|null|
+|**2025-12-22**|**Extended OpenTT Games Dataset: A table tennis dataset for fine-grained shot type and point outcome**|Moamal Fadhil Abdul et.al.|[2512.19327](http://arxiv.org/abs/2512.19327)|null|
+|**2025-12-22**|**Topology-based Conditions for Multiconsensus under the Signed Friedkin-Johnsen Model**|Aashi Shrinate et.al.|[2512.19258](http://arxiv.org/abs/2512.19258)|null|
+|**2025-12-22**|**Causal Heterogeneous Graph Learning Method for Chronic Obstructive Pulmonary Disease Prediction**|Leming Zhou et.al.|[2512.19194](http://arxiv.org/abs/2512.19194)|null|
+|**2025-12-22**|**Configuration Work: Four Consequences of LLMs-in-use**|Gabriel Alcaras et.al.|[2512.19189](http://arxiv.org/abs/2512.19189)|null|
+|**2025-12-22**|**6DAttack: Backdoor Attacks in the 6DoF Pose Estimation**|Jihui Guo et.al.|[2512.19058](http://arxiv.org/abs/2512.19058)|null|
+|**2025-12-21**|**Reliable Audio Deepfake Detection in Variable Conditions via Quantum-Kernel SVMs**|Lisan Al Amin et.al.|[2512.18797](http://arxiv.org/abs/2512.18797)|null|
+|**2025-12-20**|**Towards Ancient Plant Seed Classification: A Benchmark Dataset and Baseline Model**|Rui Xing et.al.|[2512.18247](http://arxiv.org/abs/2512.18247)|null|
 |**2025-12-19**|**First results of a Monolithic Active Pixel Sensor with Internal Signal Gain Fully Integrated in a 180 nm CMOS Technology**|Heinz Pernegger et.al.|[2512.17824](http://arxiv.org/abs/2512.17824)|null|
 |**2025-12-19**|**HydroGym: A Reinforcement Learning Platform for Fluid Dynamics**|Christian Lagemann et.al.|[2512.17534](http://arxiv.org/abs/2512.17534)|null|
 |**2025-12-19**|**AlignDP: Hybrid Differential Privacy with Rarity-Aware Protection for LLMs**|Madhava Gaikwad et.al.|[2512.17251](http://arxiv.org/abs/2512.17251)|null|
@@ -14,10 +23,10 @@ layout: default
 |**2025-12-18**|**From Facts to Conclusions : Integrating Deductive Reasoning in Retrieval-Augmented LLMs**|Shubham Mishra et.al.|[2512.16795](http://arxiv.org/abs/2512.16795)|null|
 |**2025-12-18**|**High mass accretion rates onto evolved stripped-envelope massive stars by jet-induced mass removal**|Yotham Cohen et.al.|[2512.16375](http://arxiv.org/abs/2512.16375)|null|
 |**2025-12-19**|**Phantom Menace in general Palatini $f(R,φ)$ theories**|Rahul Thakur et.al.|[2512.16256](http://arxiv.org/abs/2512.16256)|null|
-|**2025-12-18**|**Understanding the Neutron Star Population with the SKAO telescopes**|L. Levin et.al.|[2512.16156](http://arxiv.org/abs/2512.16156)|null|
+|**2025-12-19**|**Understanding the Neutron Star Population with the SKAO telescopes**|L. Levin et.al.|[2512.16156](http://arxiv.org/abs/2512.16156)|null|
 |**2025-12-17**|**Robust Multi-view Camera Calibration from Dense Matches**|Johannes Hägerlind et.al.|[2512.15608](http://arxiv.org/abs/2512.15608)|null|
 |**2025-12-17**|**GazeBlend: Exploring Paired Gaze-Based Input Techniques for Navigation and Selection Tasks on Mobile Devices**|Omar Namnakani et.al.|[2512.15491](http://arxiv.org/abs/2512.15491)|null|
-|**2025-12-19**|**Let the Barbarians In: How AI Can Accelerate Systems Performance Research**|Audrey Cheng et.al.|[2512.14806](http://arxiv.org/abs/2512.14806)|null|
+|**2025-12-22**|**Let the Barbarians In: How AI Can Accelerate Systems Performance Research**|Audrey Cheng et.al.|[2512.14806](http://arxiv.org/abs/2512.14806)|null|
 |**2025-12-16**|**Performance and Stability of Barrier Mode Parallel Systems with Heterogeneous and Redundant Jobs**|Brenton Walker et.al.|[2512.14445](http://arxiv.org/abs/2512.14445)|null|
 |**2025-12-16**|**Dual Attention Guided Defense Against Malicious Edits**|Jie Zhang et.al.|[2512.14333](http://arxiv.org/abs/2512.14333)|null|
 |**2025-12-16**|**Gravitational charges and radiation in asymptotically locally de Sitter spacetimes**|Aaron Poole et.al.|[2512.14243](http://arxiv.org/abs/2512.14243)|null|
