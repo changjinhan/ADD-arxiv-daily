@@ -10,7 +10,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-22**|**Gap-free Information Transfer in 4D-STEM via Fusion of Complementary Scattering Channels**|Shengbo You et.al.|[2512.19460](http://arxiv.org/abs/2512.19460)|null|
+|**2025-12-23**|**A Comprehensive Study of Bugs in Modern Distributed Deep Learning Systems**|Xiaoxue Ma et.al.|[2512.20345](http://arxiv.org/abs/2512.20345)|null|
+|**2025-12-23**|**Branch Learning in MRI: More Data, More Models, More Training**|Yuyang Li et.al.|[2512.20330](http://arxiv.org/abs/2512.20330)|null|
+|**2025-12-23**|**Designing Spatial Architectures for Sparse Attention: STAR Accelerator via Cross-Stage Tiling**|Huizheng Wang et.al.|[2512.20198](http://arxiv.org/abs/2512.20198)|null|
+|**2025-12-23**|**MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization**|Zhuo Yang et.al.|[2512.20135](http://arxiv.org/abs/2512.20135)|null|
+|**2025-12-23**|**IoT-based Android Malware Detection Using Graph Neural Network With Adversarial Defense**|Rahul Yumlembam et.al.|[2512.20004](http://arxiv.org/abs/2512.20004)|null|
+|**2025-12-22**|**FeynCalc 10.2 and FeynHelpers 2: Multiloop calculations streamlined**|Vladyslav Shtabovenko et.al.|[2512.19858](http://arxiv.org/abs/2512.19858)|null|
+|**2025-12-23**|**Gap-free Information Transfer in 4D-STEM via Fusion of Complementary Scattering Channels**|Shengbo You et.al.|[2512.19460](http://arxiv.org/abs/2512.19460)|null|
+|**2025-12-23**|**Left invariant complex Finsler metrics on a complex Lie group**|Xiyun Xu et.al.|[2512.19353](http://arxiv.org/abs/2512.19353)|null|
 |**2025-12-22**|**Enhancing PLS of Indoor IRS-VLC Systems for Colluding and Non-Colluding Eavesdroppers**|Rashid Iqbal et.al.|[2512.19339](http://arxiv.org/abs/2512.19339)|null|
 |**2025-12-22**|**Extended OpenTT Games Dataset: A table tennis dataset for fine-grained shot type and point outcome**|Moamal Fadhil Abdul et.al.|[2512.19327](http://arxiv.org/abs/2512.19327)|null|
 |**2025-12-22**|**Topology-based Conditions for Multiconsensus under the Signed Friedkin-Johnsen Model**|Aashi Shrinate et.al.|[2512.19258](http://arxiv.org/abs/2512.19258)|null|
