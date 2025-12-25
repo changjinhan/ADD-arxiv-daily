@@ -10,10 +10,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**GriDiT: Factorized Grid-Based Diffusion for Efficient Long Image Sequence Generation**|Snehal Singh Tomar et.al.|[2512.21276](http://arxiv.org/abs/2512.21276)|null|
+|**2025-12-24**|**Latent Implicit Visual Reasoning**|Kelvin Li et.al.|[2512.21218](http://arxiv.org/abs/2512.21218)|null|
 |**2025-12-23**|**A Comprehensive Study of Bugs in Modern Distributed Deep Learning Systems**|Xiaoxue Ma et.al.|[2512.20345](http://arxiv.org/abs/2512.20345)|null|
 |**2025-12-23**|**Branch Learning in MRI: More Data, More Models, More Training**|Yuyang Li et.al.|[2512.20330](http://arxiv.org/abs/2512.20330)|null|
-|**2025-12-23**|**Designing Spatial Architectures for Sparse Attention: STAR Accelerator via Cross-Stage Tiling**|Huizheng Wang et.al.|[2512.20198](http://arxiv.org/abs/2512.20198)|null|
-|**2025-12-23**|**MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization**|Zhuo Yang et.al.|[2512.20135](http://arxiv.org/abs/2512.20135)|null|
+|**2025-12-24**|**Designing Spatial Architectures for Sparse Attention: STAR Accelerator via Cross-Stage Tiling**|Huizheng Wang et.al.|[2512.20198](http://arxiv.org/abs/2512.20198)|null|
+|**2025-12-24**|**MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization**|Zhuo Yang et.al.|[2512.20135](http://arxiv.org/abs/2512.20135)|null|
 |**2025-12-23**|**IoT-based Android Malware Detection Using Graph Neural Network With Adversarial Defense**|Rahul Yumlembam et.al.|[2512.20004](http://arxiv.org/abs/2512.20004)|null|
 |**2025-12-22**|**FeynCalc 10.2 and FeynHelpers 2: Multiloop calculations streamlined**|Vladyslav Shtabovenko et.al.|[2512.19858](http://arxiv.org/abs/2512.19858)|null|
 |**2025-12-23**|**Gap-free Information Transfer in 4D-STEM via Fusion of Complementary Scattering Channels**|Shengbo You et.al.|[2512.19460](http://arxiv.org/abs/2512.19460)|null|
