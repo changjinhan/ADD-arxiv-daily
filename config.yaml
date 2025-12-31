@@ -23,5 +23,5 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Audio Deepfake Detection": 
-        filters: ["ADD", "Audio Deepfake Detection", "Deepfake Speech Detection", "Deepfake Speech", 
+        filters: ["Audio Deepfake Detection", "Deepfake Speech Detection", "Deepfake Speech", 
                 "Audio Anti Spoofing", "Automatic Speaker Verification"]
