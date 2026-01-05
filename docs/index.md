@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-02**|**Investigating the Viability of Employing Multi-modal Large Language Models in the Context of Audio Deepfake Detection**|Akanksha Chuchra et.al.|[2601.00777](http://arxiv.org/abs/2601.00777)|null|
 |**2025-12-21**|**Reliable Audio Deepfake Detection in Variable Conditions via Quantum-Kernel SVMs**|Lisan Al Amin et.al.|[2512.18797](http://arxiv.org/abs/2512.18797)|null|
 |**2025-12-15**|**Toward Noise-Aware Audio Deepfake Detection: Survey, SNR-Benchmarks, and Practical Recipes**|Udayon Sen et.al.|[2512.13744](http://arxiv.org/abs/2512.13744)|null|
 |**2025-12-15**|**HQ-MPSD: A Multilingual Artifact-Controlled Benchmark for Partial Deepfake Speech Detection**|Menglu Li et.al.|[2512.13012](http://arxiv.org/abs/2512.13012)|null|
