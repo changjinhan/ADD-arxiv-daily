@@ -10,6 +10,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-06**|**Interpretable All-Type Audio Deepfake Detection with Audio LLMs via Frequency-Time Reinforcement Learning**|Yuankun Xie et.al.|[2601.02983](http://arxiv.org/abs/2601.02983)|null|
+|**2026-01-06**|**XLSR-MamBo: Scaling the Hybrid Mamba-Attention Backbone for Audio Deepfake Detection**|Kwok-Ho Ng et.al.|[2601.02944](http://arxiv.org/abs/2601.02944)|null|
+|**2026-01-06**|**Vulnerabilities of Audio-Based Biometric Authentication Systems Against Deepfake Speech Synthesis**|Mengze Hong et.al.|[2601.02914](http://arxiv.org/abs/2601.02914)|null|
 |**2026-01-02**|**Investigating the Viability of Employing Multi-modal Large Language Models in the Context of Audio Deepfake Detection**|Akanksha Chuchra et.al.|[2601.00777](http://arxiv.org/abs/2601.00777)|null|
 |**2025-12-21**|**Reliable Audio Deepfake Detection in Variable Conditions via Quantum-Kernel SVMs**|Lisan Al Amin et.al.|[2512.18797](http://arxiv.org/abs/2512.18797)|null|
 |**2025-12-15**|**Toward Noise-Aware Audio Deepfake Detection: Survey, SNR-Benchmarks, and Practical Recipes**|Udayon Sen et.al.|[2512.13744](http://arxiv.org/abs/2512.13744)|null|
