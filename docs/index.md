@@ -8,7 +8,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-01-12**|**LJ-Spoof: A Generatively Varied Corpus for Audio Anti-Spoofing and Synthesis Source Tracing**|Surya Subramani et.al.|[2601.07958](http://arxiv.org/abs/2601.07958)|null|
-|**2026-01-12**|**ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge Evaluation Plan**|Xueping Zhang et.al.|[2601.07303](http://arxiv.org/abs/2601.07303)|null|
+|**2026-01-15**|**ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge Evaluation Plan**|Xueping Zhang et.al.|[2601.07303](http://arxiv.org/abs/2601.07303)|null|
 |**2026-01-10**|**Lightweight Resolution-Aware Audio Deepfake Detection via Cross-Scale Attention and Consistency Learning**|K. A. Shahriar et.al.|[2601.06560](http://arxiv.org/abs/2601.06560)|null|
 |**2025-12-31**|**Defense Against Synthetic Speech: Real-Time Detection of RVC Voice Conversion Attacks**|Prajwal Chinchmalatpure et.al.|[2601.04227](http://arxiv.org/abs/2601.04227)|null|
 |**2026-01-07**|**Analyzing Reasoning Shifts in Audio Deepfake Detection under Adversarial Attacks: The Reasoning Tax versus Shield Bifurcation**|Binh Nguyen et.al.|[2601.03615](http://arxiv.org/abs/2601.03615)|null|
