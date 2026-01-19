@@ -1,4 +1,4 @@
-## Updated on 2026.01.18
+## Updated on 2026.01.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -30,7 +30,7 @@
 |**2025-10-27**|**TwinShift: Benchmarking Audio Deepfake Detection across Synthesizer and Speaker Shifts**|Jiyoung Hong et.al.|[2510.23096](http://arxiv.org/abs/2510.23096)|null|
 |**2025-11-13**|**Can Current Detectors Catch Face-to-Voice Deepfake Attacks?**|Nguyen Linh Bao Nguyen et.al.|[2510.21004](http://arxiv.org/abs/2510.21004)|null|
 
-<p align=right>(<a href=#updated-on-20260118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
