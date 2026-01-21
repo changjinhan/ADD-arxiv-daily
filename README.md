@@ -10,8 +10,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**Emotion and Acoustics Should Agree: Cross-Level Inconsistency Analysis for Audio Deepfake Detection**|Jinhua Zhang et.al.|[2601.13847](http://arxiv.org/abs/2601.13847)|null|
+|**2026-01-20**|**Performance and Complexity Trade-off Optimization of Speech Models During Training**|Esteban Gómez et.al.|[2601.13704](http://arxiv.org/abs/2601.13704)|null|
+|**2026-01-19**|**Context and Transcripts Improve Detection of Deepfake Audios of Public Figures**|Chongyang Gao et.al.|[2601.13464](http://arxiv.org/abs/2601.13464)|null|
 |**2026-01-12**|**LJ-Spoof: A Generatively Varied Corpus for Audio Anti-Spoofing and Synthesis Source Tracing**|Surya Subramani et.al.|[2601.07958](http://arxiv.org/abs/2601.07958)|null|
-|**2026-01-15**|**ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge Evaluation Plan**|Xueping Zhang et.al.|[2601.07303](http://arxiv.org/abs/2601.07303)|null|
+|**2026-01-18**|**ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge Evaluation Plan**|Xueping Zhang et.al.|[2601.07303](http://arxiv.org/abs/2601.07303)|null|
 |**2026-01-10**|**Lightweight Resolution-Aware Audio Deepfake Detection via Cross-Scale Attention and Consistency Learning**|K. A. Shahriar et.al.|[2601.06560](http://arxiv.org/abs/2601.06560)|null|
 |**2025-12-31**|**Defense Against Synthetic Speech: Real-Time Detection of RVC Voice Conversion Attacks**|Prajwal Chinchmalatpure et.al.|[2601.04227](http://arxiv.org/abs/2601.04227)|null|
 |**2026-01-07**|**Analyzing Reasoning Shifts in Audio Deepfake Detection under Adversarial Attacks: The Reasoning Tax versus Shield Bifurcation**|Binh Nguyen et.al.|[2601.03615](http://arxiv.org/abs/2601.03615)|null|
