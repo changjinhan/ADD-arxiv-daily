@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**U3-xi: Pushing the Boundaries of Speaker Recognition via Incorporating Uncertainty**|Junjie Li et.al.|[2601.15719](http://arxiv.org/abs/2601.15719)|null|
 |**2026-01-20**|**Emotion and Acoustics Should Agree: Cross-Level Inconsistency Analysis for Audio Deepfake Detection**|Jinhua Zhang et.al.|[2601.13847](http://arxiv.org/abs/2601.13847)|null|
 |**2026-01-21**|**Performance and Complexity Trade-off Optimization of Speech Models During Training**|Esteban Gómez et.al.|[2601.13704](http://arxiv.org/abs/2601.13704)|null|
 |**2026-01-19**|**Context and Transcripts Improve Detection of Deepfake Audios of Public Figures**|Chongyang Gao et.al.|[2601.13464](http://arxiv.org/abs/2601.13464)|null|
