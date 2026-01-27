@@ -2,12 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.01.26
+## Updated on 2026.01.27
 ## Audio Deepfake Detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-22**|**U3-xi: Pushing the Boundaries of Speaker Recognition via Incorporating Uncertainty**|Junjie Li et.al.|[2601.15719](http://arxiv.org/abs/2601.15719)|null|
+|**2026-01-25**|**Shortcut Learning in Binary Classifier Black Boxes: Applications to Voice Anti-Spoofing and Biometrics**|Md Sahidullah et.al.|[2601.17782](http://arxiv.org/abs/2601.17782)|null|
+|**2026-01-25**|**U3-xi: Pushing the Boundaries of Speaker Recognition via Incorporating Uncertainty**|Junjie Li et.al.|[2601.15719](http://arxiv.org/abs/2601.15719)|null|
 |**2026-01-20**|**Emotion and Acoustics Should Agree: Cross-Level Inconsistency Analysis for Audio Deepfake Detection**|Jinhua Zhang et.al.|[2601.13847](http://arxiv.org/abs/2601.13847)|null|
 |**2026-01-21**|**Performance and Complexity Trade-off Optimization of Speech Models During Training**|Esteban Gómez et.al.|[2601.13704](http://arxiv.org/abs/2601.13704)|null|
 |**2026-01-19**|**Context and Transcripts Improve Detection of Deepfake Audios of Public Figures**|Chongyang Gao et.al.|[2601.13464](http://arxiv.org/abs/2601.13464)|null|
