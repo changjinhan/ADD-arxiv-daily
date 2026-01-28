@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.27
+## Updated on 2026.01.28
 ## Audio Deepfake Detection
 
 | Publish Date | Title | Authors | PDF | Code |
