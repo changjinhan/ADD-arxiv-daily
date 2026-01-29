@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**Audio Deepfake Detection in the Age of Advanced Text-to-Speech models**|Robin Singh et.al.|[2601.20510](http://arxiv.org/abs/2601.20510)|null|
 |**2026-01-27**|**Audio Deepfake Detection at the First Greeting: "Hi!"**|Haohan Shi et.al.|[2601.19573](http://arxiv.org/abs/2601.19573)|null|
 |**2026-01-25**|**Shortcut Learning in Binary Classifier Black Boxes: Applications to Voice Anti-Spoofing and Biometrics**|Md Sahidullah et.al.|[2601.17782](http://arxiv.org/abs/2601.17782)|null|
 |**2026-01-25**|**U3-xi: Pushing the Boundaries of Speaker Recognition via Incorporating Uncertainty**|Junjie Li et.al.|[2601.15719](http://arxiv.org/abs/2601.15719)|null|
