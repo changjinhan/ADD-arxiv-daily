@@ -10,6 +10,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**DFKI-Speech System for WildSpoof Challenge: A robust framework for SASV In-the-Wild**|Arnab Das et.al.|[2602.02286](http://arxiv.org/abs/2602.02286)|null|
+|**2026-02-02**|**Joint Optimization of ASV and CM tasks: BTUEF Team's Submission for WildSpoof Challenge**|Oguzhan Kurnaz et.al.|[2602.01722](http://arxiv.org/abs/2602.01722)|null|
+|**2026-02-01**|**HierCon: Hierarchical Contrastive Attention for Audio Deepfake Detection**|Zhili Nicholas Liang et.al.|[2602.01032](http://arxiv.org/abs/2602.01032)|null|
+|**2026-01-30**|**Divide and Conquer: Multimodal Video Deepfake Detection via Cross-Modal Fusion and Localization**|Qingcao Li et.al.|[2602.00209](http://arxiv.org/abs/2602.00209)|null|
 |**2026-01-28**|**Audio Deepfake Detection in the Age of Advanced Text-to-Speech models**|Robin Singh et.al.|[2601.20510](http://arxiv.org/abs/2601.20510)|null|
 |**2026-01-27**|**Audio Deepfake Detection at the First Greeting: "Hi!"**|Haohan Shi et.al.|[2601.19573](http://arxiv.org/abs/2601.19573)|null|
 |**2026-01-25**|**Shortcut Learning in Binary Classifier Black Boxes: Applications to Voice Anti-Spoofing and Biometrics**|Md Sahidullah et.al.|[2601.17782](http://arxiv.org/abs/2601.17782)|null|
