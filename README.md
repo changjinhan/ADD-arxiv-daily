@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection**|Qing Wen et.al.|[2602.05670](http://arxiv.org/abs/2602.05670)|null|
 |**2026-02-02**|**DFKI-Speech System for WildSpoof Challenge: A robust framework for SASV In-the-Wild**|Arnab Das et.al.|[2602.02286](http://arxiv.org/abs/2602.02286)|null|
 |**2026-02-02**|**Joint Optimization of ASV and CM tasks: BTUEF Team's Submission for WildSpoof Challenge**|Oguzhan Kurnaz et.al.|[2602.01722](http://arxiv.org/abs/2602.01722)|null|
 |**2026-02-01**|**HierCon: Hierarchical Contrastive Attention for Audio Deepfake Detection**|Zhili Nicholas Liang et.al.|[2602.01032](http://arxiv.org/abs/2602.01032)|null|
